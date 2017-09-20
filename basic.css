@@ -1,0 +1,100 @@
+header
+{
+	/*The code for the cool header*/
+	width: 100%;
+	margin: 0px;
+	padding: 10px;
+	background-color: RGB(69, 69, 69);
+        text-align : center;
+	font-size: 22px;
+	margin-top: -10px;
+	margin-left: -10px;
+}
+h1, h2, h3, h4
+{
+	color: lime;
+	font-family: monospace;
+}
+h1{
+	font-size: 44px;
+}
+h2{
+	font-size: 34px;
+}
+h3{
+	font-size: 24px;
+}
+p
+{
+	color: lime;
+	font-family: monospace;
+	font-size: 20px;
+}
+li
+{
+	font-size: 24px;
+}
+.smol
+{
+	font-family: monospace;
+	font-size: 24px;
+	color: lime;
+}
+body 
+{
+	font-size: 17px;
+    	background-image: url("images/bg3.jpg");
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    	background-position: center; 
+	font-family: monospace;
+	color: lime;
+
+}
+a
+{
+	font-family: monospace;
+	color: lime;
+}
+div
+{
+	margin-left:15%;
+        margin-right:15%;
+	background-color: rgba(100, 100, 100, 0.85);
+}
+.cent
+{
+	text-align : center;
+}
+img {
+    	border: 1px solid #ddd;
+   	border-radius: 4px;
+    	padding: 5px;
+}
+
+img:hover {
+    	box-shadow: 0 0 20px 10px rgba(0, 140, 186, 0.5);
+}
+ol
+{
+	font-family : monospace;
+	color: lime;
+}
+.l
+{
+	position: absolute;
+	margin-left: -13%;
+
+}
+.r
+{
+	position: absolute;	
+	margin-left: 72%;
+}
+/*.ban
+{
+	width: 100%;
+	margin-left: -0.5%;
+	margin-top: -0.5%;
+	border-radius: 0;
+}*/
