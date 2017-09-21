@@ -13,6 +13,8 @@ header
 .bot
 {
 	position: absolute;
+	margin-left: -10%;
+	margin-top: 5%
 }
 h1, h2, h3, h4
 {
