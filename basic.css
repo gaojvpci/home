@@ -10,6 +10,11 @@ header
 	margin-top: -10px;
 	margin-left: -10px;
 }
+.bot
+{
+	position: absolute;
+	margin-left: 40%;
+}
 h1, h2, h3, h4
 {
 	color: lime;
