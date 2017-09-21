@@ -89,12 +89,14 @@ ol
 {
 	position: absolute;
 	margin-left: -13%;
+	width = 10%;
 
 }
 .r
 {
 	position: absolute;	
 	margin-left: 72%;
+	width = 10%;
 }
 /*.ban
 {
