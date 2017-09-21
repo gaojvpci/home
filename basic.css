@@ -65,6 +65,7 @@ div
 .cent
 {
 	text-align : center;
+	align: center;
 }
 img {
     	border: 1px solid #ddd;
